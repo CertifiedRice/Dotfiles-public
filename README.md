@@ -1,2 +1,2 @@
 # CertifiedRice's public dot files(wip)
-Pretty empty, I know.
+Pretty empty, I know. 
